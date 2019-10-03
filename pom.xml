@@ -12,7 +12,7 @@
 	<artifactId>example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>example</name>
-	<description>Test kafka/spring boot</description>
+	<description>Test kafka producer/spring boot</description>
 
 	<properties>
 		<java.version>1.8</java.version>
